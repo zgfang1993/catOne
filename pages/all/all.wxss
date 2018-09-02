@@ -1,0 +1,4 @@
+/* pages/all/all.wxss */
+header {
+  width: 100%;
+}

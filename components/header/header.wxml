@@ -1,0 +1,4 @@
+<view class="header-bar">
+  <view class="item" bindtap="linkTo" data-page="daily"><text>日更</text></view>
+  <view class="item" bindtap="linkTo" data-page="all"><text>全部</text></view>
+</view>
